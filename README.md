@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/buchorismart/Test/_apis/build/status/sandirbuchori.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/buchorismart/Test/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
